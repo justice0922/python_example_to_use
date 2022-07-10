@@ -1,2 +1,2 @@
-# python_tool_to_use
-This is something for me to use python tool
+# python_example_to_use
+This is something example for me to use python
